@@ -5,6 +5,7 @@ first = input('Введите первое целое число: ')
 second = input('Введите второе целое число: ')
 third = input('Введите третье целое число: ')
 print ('Отлично, проверяем результат: ')
+
 if first == second and first == third:
     print ('Третье число: ', third)
 
